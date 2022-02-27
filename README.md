@@ -2,7 +2,7 @@
 <h3 align="center">French and English speaking person who wants to learn and try things !</h3>
 
 <p align="center">
-  <img align="center" src="https://badge42.herokuapp.com/api/stats/ljohnson?privacyEmail=true" />
+  <img align="center" src="https://badge42.herokuapp.com/api/stats/ljohnson" />
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arkhavy&show_icons=true&layout=compact"
        alt="" height="30%" width="29%"/>
@@ -21,7 +21,19 @@
 | <img align="center" src="https://badge42.herokuapp.com/api/project/ljohnson/Libft" /> | <img align="center" src="https://badge42.herokuapp.com/api/project/ljohnson/get_next_line" /> | <img align="center" src="https://badge42.herokuapp.com/api/project/ljohnson/ft_printf" /> | <img align="center" src="https://badge42.herokuapp.com/api/project/ljohnson/Born2beroot" /> | <img align="center" src="https://badge42.herokuapp.com/api/project/ljohnson/so_long" /> | <img align="center" src="https://badge42.herokuapp.com/api/project/ljohnson/push_swap" /> | <img align="center" src="https://badge42.herokuapp.com/api/project/ljohnson/pipex" /> | <img align="center" src="https://badge42.herokuapp.com/api/project/ljohnson/Philosophers" /> |
 
 <h2 align="center">Testers made</h2>
+<div align="center">
 
 | Push Swap |
 | --- |
 | [Ark Push Swap Tester](https://github.com/Arkhavy/Ark_Push_Swap_Tester) |
+
+</div>
+  
+<h4 align="center">Contact</h4>
+<div align="center">
+  
+| Discord | LinkedIn | Email |
+| --- | --- | --- |
+| Arkhavy#4475 | [ljohnson42lyon](https://www.linkedin.com/in/ljohnson42lyon/) | ljohnson@student.42lyon.fr |
+
+</div>
