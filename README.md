@@ -18,10 +18,13 @@
 ---
 
 <h2 align="center">Finished 42 Cursus projects</h2>
-
+<div align="center">
+  
 | [Libft](https://github.com/Arkhavy/42_2021_libft) | [get_next_line](https://github.com/Arkhavy/42_2021_get_next_line) | [ft_printf](https://github.com/Arkhavy/42_2021_ft_printf) | Born2beroot | [so_long](https://github.com/Arkhavy/42_2021_so_long) | [push_swap](https://github.com/Arkhavy/42_2021_Push_Swap) | [pipex](https://github.com/Arkhavy/42_2021_Pipex) | [Philosophers](https://github.com/Arkhavy/42_2021_Philosophers) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| <img align="center" src="https://badge42.herokuapp.com/api/project/ljohnson/Libft" /> | <img align="center" src="https://badge42.herokuapp.com/api/project/ljohnson/get_next_line" /> | <img align="center" src="https://badge42.herokuapp.com/api/project/ljohnson/ft_printf" /> | <img align="center" src="https://badge42.herokuapp.com/api/project/ljohnson/Born2beroot" /> | <img align="center" src="https://badge42.herokuapp.com/api/project/ljohnson/so_long" /> | <img align="center" src="https://badge42.herokuapp.com/api/project/ljohnson/push_swap" /> | <img align="center" src="https://badge42.herokuapp.com/api/project/ljohnson/pipex" /> | <img align="center" src="https://badge42.herokuapp.com/api/project/ljohnson/Philosophers" /> |
+| 125/100 | 125/100 | 100/100 | 100/100 | 100/100 | 86/100 | 125/100 | 100/100 |
+
+</div>
 
 ---
 
