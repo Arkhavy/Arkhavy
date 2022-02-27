@@ -10,15 +10,20 @@
        alt="" height="35%" width="35%" />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arkhavy&label=Profile%20views&color=0e75b6&style=flat" 
-       alt="Arkhavy" /></p>
+  <img src="https://komarev.com/ghpvc/?username=Arkhavy&label=Profile%20views&color=blue&style=flat" 
+       alt="Arkhavy" />
+  <img src="https://badgen.net/badge/Born2Code/ljohnson/blue?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg"/>
 </p>
 
-<h2 align="center">Finished projects</h2>
+---
+
+<h2 align="center">Finished 42 Cursus projects</h2>
 
 | [Libft](https://github.com/Arkhavy/42_2021_libft) | [get_next_line](https://github.com/Arkhavy/42_2021_get_next_line) | [ft_printf](https://github.com/Arkhavy/42_2021_ft_printf) | Born2beroot | [so_long](https://github.com/Arkhavy/42_2021_so_long) | [push_swap](https://github.com/Arkhavy/42_2021_Push_Swap) | [pipex](https://github.com/Arkhavy/42_2021_Pipex) | [Philosophers](https://github.com/Arkhavy/42_2021_Philosophers) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | <img align="center" src="https://badge42.herokuapp.com/api/project/ljohnson/Libft" /> | <img align="center" src="https://badge42.herokuapp.com/api/project/ljohnson/get_next_line" /> | <img align="center" src="https://badge42.herokuapp.com/api/project/ljohnson/ft_printf" /> | <img align="center" src="https://badge42.herokuapp.com/api/project/ljohnson/Born2beroot" /> | <img align="center" src="https://badge42.herokuapp.com/api/project/ljohnson/so_long" /> | <img align="center" src="https://badge42.herokuapp.com/api/project/ljohnson/push_swap" /> | <img align="center" src="https://badge42.herokuapp.com/api/project/ljohnson/pipex" /> | <img align="center" src="https://badge42.herokuapp.com/api/project/ljohnson/Philosophers" /> |
+
+---
 
 <h2 align="center">Tester made</h2>
 <div align="center">
@@ -28,8 +33,10 @@
 | [Ark Push Swap Tester](https://github.com/Arkhavy/Ark_Push_Swap_Tester) |
 
 </div>
-  
-<h4 align="center">Contact</h4>
+
+---
+
+<h2 align="center">Contact</h2>
 <div align="center">
   
 | Discord | LinkedIn | Email |
