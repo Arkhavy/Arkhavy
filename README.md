@@ -1,8 +1,8 @@
 <h1 align="center">Hello there 👋 I am Loïc !</h1>
 <h3 align="center">French and English speaking person who wants to learn and try things !</h3>
 
-<p align="center">
-  <img align="center" src="https://badge42.herokuapp.com/api/stats/ljohnson" />
+<!--- <p align="center">
+  <img align="center" src="https://badge42.herokuapp.com/api/stats/ljohnson" /> --->
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arkhavy&show_icons=true&layout=compact"
        alt="" height="30%" width="29%"/>
