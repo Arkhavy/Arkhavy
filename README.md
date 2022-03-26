@@ -4,15 +4,34 @@
 <!--- <p align="center">
   <img align="center" src="https://badge42.herokuapp.com/api/stats/ljohnson" /> --->
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arkhavy&show_icons=true&layout=compact"
-       alt="" height="30%" width="29%"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arkhavy&show_icons=true"
-       alt="" height="35%" width="35%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arkhavy&show_icons=true&layout=compact" alt="" height="30%" width="29%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arkhavy&show_icons=true" alt="" height="35%" width="35%" />
 </p>
+
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arkhavy&label=Profile%20views&color=blue&style=flat" 
-       alt="Arkhavy" />
-  <img src="https://badgen.net/badge/Born2Code/ljohnson/blue?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg"/>
+  <img src="https://komarev.com/ghpvc/?username=Arkhavy&label=Profile%20views&color=blue&style=flat" alt="Arkhavy" />
+  <img src="https://badgen.net/badge/Born2Code/ljohnson/blue?icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://badgen.net/badge/C/Intermediate/blue?cache=86400" />
+  <img src="https://badgen.net/badge/Cpp/Beginner/blue?cache=86400" />
+  <img src="https://badgen.net/badge/Shellscript/Intermediate/green?cache=86400" />
+  <img src="https://badgen.net/badge/LaTeX/Beginner/grey?cache=86400" />
+  <img src="https://badgen.net/badge/Docker/Beginner/cyan?cache=86400&icon=docker" />
+  <br>
+  <img src="https://badgen.net/badge/_/VisualStudio/purple?cache=86400&icon=visualstudio&label" />
+  <img src="https://badgen.net/badge/_/Git/orange?cache=86400&icon=git&label" />
+  <img src="https://badgen.net/badge/_/Github/black?cache=86400&icon=github&label" />
+  <img src="https://badgen.net/badge/_/Gitlab/orange?cache=86400&icon=gitlab&label" />
+  <img src="https://badgen.net/badge/_/Discord/blue?cache=86400&icon=discord&label" />
+  <img src="https://badgen.net/badge/_/Slack/white?cache=86400&icon=slack&label" />
+  <img src="https://badgen.net/badge/_/Twitter/white?cache=86400&icon=twitter&label" />
+  
 </p>
 
 ---
