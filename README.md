@@ -19,7 +19,7 @@
 
 <p align="center">
   <img src="https://badgen.net/badge/C/Intermediate/blue?cache=86400" />
-  <img src="https://badgen.net/badge/Cpp/Beginner/blue?cache=86400" />
+  <img src="https://badgen.net/badge/C++/Beginner/blue?cache=86400" />
   <img src="https://badgen.net/badge/Shellscript/Intermediate/green?cache=86400" />
   <img src="https://badgen.net/badge/LaTeX/Beginner/grey?cache=86400" />
   <img src="https://badgen.net/badge/Docker/Beginner/cyan?cache=86400&icon=docker" />
