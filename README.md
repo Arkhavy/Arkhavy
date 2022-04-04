@@ -40,7 +40,7 @@
 
 ---
 
-<h2 align="center">Finished 42 Cursus projects</h2>
+<h2 align="center">42 Cursus solo projects</h2>
 <div align="center">
   
 | [Libft](https://github.com/Arkhavy/42_2021_libft) | [get_next_line](https://github.com/Arkhavy/42_2021_get_next_line) | [ft_printf](https://github.com/Arkhavy/42_2021_ft_printf) | Born2beroot | [so_long](https://github.com/Arkhavy/42_2021_so_long) | [push_swap](https://github.com/Arkhavy/42_2021_Push_Swap) | [pipex](https://github.com/Arkhavy/42_2021_Pipex) | [Philosophers](https://github.com/Arkhavy/42_2021_Philosophers) |
@@ -51,23 +51,23 @@
 
 ---
 
-<h2 align="center">Tester made</h2>
+<h2 align="center">42 Cursus group projects</h2>
 <div align="center">
-
-| Push Swap |
-| --- |
-| [Ark Push Swap Tester](https://github.com/Arkhavy/Ark_Push_Swap_Tester) |
+  
+| [Libunit](https://github.com/Arkhavy/42_2021_Libunit) | [Minishell](https://github.com/Arkhavy/42_2021_Minishell) |
+| --- | --- |
+| Evaluating | Work In Progress |
 
 </div>
 
 ---
 
-<h2 align="center">Custom 42 projects</h2>
+<h2 align="center">Custom projects</h2>
 <div align="center">
   
-| Libft |
-| --- |
-| [Ark_Libft](https://github.com/Arkhavy/42_2021_ark_libft) |
+| Libft | Push Swap Tester |
+| --- | --- |
+| [Ark_Libft](https://github.com/Arkhavy/42_2021_ark_libft) | [Ark Push Swap Tester](https://github.com/Arkhavy/Ark_Push_Swap_Tester) |
 
 </div>
 
