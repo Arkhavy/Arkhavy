@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arkhavy&label=Profile%20views&color=blue&style=flat" alt="Arkhavy" />
-  <img src="https://badgen.net/badge/Born2Code/ljohnson/blue?icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" />
+  <a href="https://profile.intra.42.fr/users/ljohnson"><img src="https://badgen.net/badge/Born2Code/ljohnson/blue?icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" /></a>
 </p>
 
 ---
@@ -28,12 +28,12 @@
   <img src="https://badgen.net/badge/Ability to fly/Not a bird/grey?cache=86400" />
   <img src="https://badgen.net/badge/_/VisualStudio/purple?cache=86400&icon=visualstudio&label" />
   <img src="https://badgen.net/badge/_/Git/orange?cache=86400&icon=git&label" />
-  <img src="https://badgen.net/badge/_/Github/grey?cache=86400&icon=github&label" />
+  <a href="https://github.com/Arkhavy"><img src="https://badgen.net/badge/_/Github/grey?cache=86400&icon=github&label" /></a>
   <br>
   <img src="https://badgen.net/badge/_/Gitlab/orange?cache=86400&icon=gitlab&label" />
-  <img src="https://badgen.net/badge/_/Discord/blue?cache=86400&icon=discord&label" />
+  <a href="https://discord.gg/udb8RJmxg4"><img src="https://badgen.net/badge/_/Discord/blue?cache=86400&icon=discord&label" /></a>
   <img src="https://badgen.net/badge/_/Slack/black?cache=86400&icon=slack&label" />
-  <img src="https://badgen.net/badge/_/Twitter/blue?cache=86400&icon=twitter&label" />
+  <a href="https://twitter.com/arkhavy"><img src="https://badgen.net/badge/_/Twitter/blue?cache=86400&icon=twitter&label" /></a>
   <img src="https://badgen.net/badge/_/Brave/orange?cache=86400&icon=chrome&label" />
   
 </p>
