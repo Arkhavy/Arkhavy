@@ -73,6 +73,17 @@
 
 ---
 
+<h2 align="center">CodinGame projects</h2>
+<div align="center">
+  
+| Spring Challenge 2022 |
+| --- |
+| [Spring_Challenge_2022](https://github.com/Arkhavy/CodinGame_Spring_Challenge_2022) |
+
+</div>
+
+---
+
 <h2 align="center">Contact</h2>
 <div align="center">
   
