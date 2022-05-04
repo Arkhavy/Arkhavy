@@ -23,6 +23,7 @@
   <img src="https://badgen.net/badge/Shellscript/Intermediate/green?cache=86400" />
   <img src="https://badgen.net/badge/LaTeX/Beginner/grey?cache=86400" />
   <img src="https://badgen.net/badge/Docker/Beginner/cyan?cache=86400&icon=docker" />
+  <img src="https://badgen.net/badge/Javascript/Beginner/yellow?cache=86400" />
   <br>
   <img src="https://badgen.net/badge/Self Love/Work in Progress/pink?cache=86400" />
   <img src="https://badgen.net/badge/Ability to fly/Not a bird/grey?cache=86400" />
