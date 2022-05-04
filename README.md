@@ -30,6 +30,7 @@
   <br>
   <img src="https://badgen.net/badge/Self Love/Work in Progress/pink?cache=86400" />
   <img src="https://badgen.net/badge/Ability to fly/Not a bird/grey?cache=86400" />
+  <br>
   <img src="https://badgen.net/badge/_/VisualStudio/purple?cache=86400&icon=visualstudio&label" />
   <img src="https://badgen.net/badge/_/Git/orange?cache=86400&icon=git&label" />
   <a href="https://github.com/Arkhavy"><img src="https://badgen.net/badge/_/Github/grey?cache=86400&icon=github&label" /></a>
