@@ -76,9 +76,9 @@
 <h2 align="center">CodinGame projects</h2>
 <div align="center">
   
-| Spring Challenge 2022 |
-| --- |
-| [Spring_Challenge_2022](https://github.com/Arkhavy/CodinGame_Spring_Challenge_2022) |
+| Spring Challenge 2022 | The Descent |
+| --- | --- |
+| [Spring_Challenge_2022](https://github.com/Arkhavy/CodinGame_Spring_Challenge_2022) | [The_Descent](https://github.com/Arkhavy/CodinGame_Easy_The_Descent) |
 
 </div>
 
