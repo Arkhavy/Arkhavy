@@ -76,10 +76,20 @@
 <h2 align="center">CodinGame projects</h2>
 <div align="center">
   
-| Spring Challenge 2022 | The Descent |
-| --- | --- |
-| [Spring_Challenge_2022](https://github.com/Arkhavy/CodinGame_Spring_Challenge_2022) | [The_Descent](https://github.com/Arkhavy/CodinGame_Easy_The_Descent) |
+| Spring Challenge 2022 |
+| --- |
+| [Spring_Challenge_2022](https://github.com/Arkhavy/CodinGame_Spring_Challenge_2022) |
+</div>
 
+---
+
+<h2 align="center">CodinGame Puzzles</h2>
+<div align="center">
+  
+| Easy Puzzles | Medium Puzzles | Hard Puzzles | Very Hard Puzzles |
+| --- | --- | --- | --- |
+| [The_Descent](https://github.com/Arkhavy/CodinGame_Easy_The_Descent) |
+| [Power_of_Thor](https://github.com/Arkhavy/CodinGame_Easy_Power_of_Thor) |
 </div>
 
 ---
