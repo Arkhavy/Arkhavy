@@ -95,6 +95,9 @@
 | --- |
 | [The Descent](https://github.com/Arkhavy/CodinGame_Easy_The_Descent) |
 | [Power of Thor](https://github.com/Arkhavy/CodinGame_Easy_Power_of_Thor) |
+| [Temperatures](https://github.com/Arkhavy/CodinGame_Easy_Temperatures) |
+
+  
 </div>
 
 ---
