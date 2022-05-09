@@ -91,9 +91,9 @@
 <h2 align="center">CodinGame Puzzles</h2>
 <div align="center">
   
-| Easy Puzzles |
-| --- |
-| [The Descent](https://github.com/Arkhavy/CodinGame_Easy_The_Descent) |
+| Easy Puzzles | Medium Puzzles |
+| --- | --- |
+| [The Descent](https://github.com/Arkhavy/CodinGame_Easy_The_Descent) | [Shadow Of The Night Ep1](https://github.com/Arkhavy/CodinGame_Medium_Shadows_of_the_knight_ep1) |
 | [Power of Thor](https://github.com/Arkhavy/CodinGame_Easy_Power_of_Thor) |
 | [Temperatures](https://github.com/Arkhavy/CodinGame_Easy_Temperatures) |
 | [Mars Lander](https://github.com/Arkhavy/CodinGame_Easy_Mars_Lander) |
