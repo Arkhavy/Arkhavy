@@ -17,7 +17,7 @@
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://badgen.net/badge/C/Advanced/blue?cache=86400" />
   <img src="https://badgen.net/badge/C++/Beginner/blue?cache=86400" />
   <img src="https://badgen.net/badge/Shellscript/Intermediate/green?cache=86400" />
@@ -41,7 +41,7 @@
   <a href="https://twitter.com/arkhavy"><img src="https://badgen.net/badge/_/Twitter/blue?cache=86400&icon=twitter&label" /></a>
   <img src="https://badgen.net/badge/_/Brave/orange?cache=86400&icon=chrome&label" />
   
-</p>
+</div>
 
 ---
 
@@ -98,7 +98,6 @@
 | [Temperatures](https://github.com/Arkhavy/CodinGame_Easy_Temperatures) |
 | [Mars Lander](https://github.com/Arkhavy/CodinGame_Easy_Mars_Lander) |
 
-  
 </div>
 
 ---
