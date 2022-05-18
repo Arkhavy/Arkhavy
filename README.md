@@ -59,7 +59,7 @@
 <h2 align="center">42 Cursus group projects</h2>
 <div align="center">
   
-| [Libunit](https://github.com/Arkhavy/42_2021_Libunit) | [Minishell](https://github.com/Arkhavy/42_2021_Minishell) |
+| [Libunit](https://github.com/Arkhavy/42_2021_Libunit) | Minishell |
 | --- | --- |
 | 113/100 | Work In Progress |
 
