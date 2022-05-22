@@ -49,7 +49,7 @@
 <div align="center">
   
 | [Libft](https://github.com/Arkhavy/42_2021_libft) | [get_next_line](https://github.com/Arkhavy/42_2021_get_next_line) | [ft_printf](https://github.com/Arkhavy/42_2021_ft_printf) | Born2beroot | [so_long](https://github.com/Arkhavy/42_2021_so_long) | [push_swap](https://github.com/Arkhavy/42_2021_Push_Swap) | [pipex](https://github.com/Arkhavy/42_2021_Pipex) | [Philosophers](https://github.com/Arkhavy/42_2021_Philosophers) |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 125/100 | 125/100 | 100/100 | 100/100 | 100/100 | 86/100 | 125/100 | 100/100 |
 
 </div>
@@ -60,7 +60,7 @@
 <div align="center">
   
 | [Libunit](https://github.com/Arkhavy/42_2021_Libunit) | Minishell |
-| --- | --- |
+| :---: | :---: |
 | 113/100 | Work In Progress |
 
 </div>
@@ -69,11 +69,11 @@
 
 <h2 align="center">Custom projects</h2>
 <div align="center">
-  
-| Libft | Push Swap Tester |
-| --- | --- |
-| [Ark_Libft](https://github.com/Arkhavy/42_2021_ark_libft) | [Ark Push Swap Tester](https://github.com/Arkhavy/Ark_Push_Swap_Tester) |
-
+    
+| Libft | Push Swap Tester | Obsidian Database |
+| :---: | :---: | :---: |
+| [Ark_Libft](https://github.com/Arkhavy/42_2021_ark_libft) | [Ark Push Swap Tester](https://github.com/Arkhavy/Ark_Push_Swap_Tester) | [Ark Md Database](https://github.com/Arkhavy/Obsidian_md_ark_database) |
+    
 </div>
 
 ---
@@ -82,7 +82,7 @@
 <div align="center">
   
 | 2022 |
-| --- |
+| :---: |
 | [Spring Challenge 2022](https://github.com/Arkhavy/CodinGame_Spring_Challenge_2022) |
 </div>
 
@@ -92,7 +92,7 @@
 <div align="center">
   
 | Easy Puzzles | Medium Puzzles |
-| --- | --- |
+| :---: | :---: |
 | [The Descent](https://github.com/Arkhavy/CodinGame_Easy_The_Descent) | [Shadow Of The Night Ep1](https://github.com/Arkhavy/CodinGame_Medium_Shadows_of_the_knight_ep1) |
 | [Power of Thor](https://github.com/Arkhavy/CodinGame_Easy_Power_of_Thor) |
 | [Temperatures](https://github.com/Arkhavy/CodinGame_Easy_Temperatures) |
@@ -106,7 +106,7 @@
 <div align="center">
   
 | Discord | LinkedIn | Email |
-| --- | --- | --- |
+| :---: | :---: | :---: |
 | Arkhavy#4475 | [ljohnson42lyon](https://www.linkedin.com/in/ljohnson42lyon/) | ljohnson@student.42lyon.fr |
 
 </div>
