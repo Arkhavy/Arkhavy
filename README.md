@@ -5,7 +5,7 @@
   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1qawy8u002509jtlt49xa81/stats?cursusId=21&coalitionId=49" alt="ljohnson's 42 stats" /></a>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arkhavy&show_icons=true&layout=compact" alt="" height="30%" width="29%"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arkhavy&show_icons=true" alt="" height="35%" width="35%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arkhavy&count_private=true&show_icons=true" alt="" height="35%" width="35%" />
 </p>
 
 ---
