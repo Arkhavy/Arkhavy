@@ -70,7 +70,7 @@
 <h2 align="center">Custom projects</h2>
 <div align="center">
     
-| Libft | 42 Push Swap Tester | Obsidian Database |
+| 42 upgraded Libft | 42 Push Swap Tester | Obsidian Database |
 | :---: | :---: | :---: |
 | [Ark_Libft](https://github.com/Arkhavy/42_2021_ark_libft) | [Arktest Push Swap](https://github.com/Arkhavy/Arktest_Push_Swap) | [Ark Md Database](https://github.com/Arkhavy/Obsidian_md_ark_database) |
     
