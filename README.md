@@ -45,23 +45,31 @@
 
 ---
 
-<h2 align="center">42 Cursus solo projects</h2>
+<h2 align="center">42 Common Core projects</h2>
 <div align="center">
   
-| [Libft](https://github.com/Arkhavy/42_2021_libft) | [get_next_line](https://github.com/Arkhavy/42_2021_get_next_line) | [ft_printf](https://github.com/Arkhavy/42_2021_ft_printf) | Born2beroot | [so_long](https://github.com/Arkhavy/42_2021_so_long) | [push_swap](https://github.com/Arkhavy/42_2021_Push_Swap) | [pipex](https://github.com/Arkhavy/42_2021_Pipex) | [Philosophers](https://github.com/Arkhavy/42_2021_Philosophers) |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 125/100 | 125/100 | 100/100 | 100/100 | 100/100 | 86/100 | 125/100 | 100/100 |
+|  |  |  | **[Libft](https://github.com/Arkhavy/42_2021_libft)** |  |  |  |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|  |  |  | 125/100 |  |  |  |
+| **[Get_Next_Line](https://github.com/Arkhavy/42_2021_get_next_line)** | **[Ft_Printf](https://github.com/Arkhavy/42_2021_ft_printf)** | **Born2beRoot** |  | **[So_Long](https://github.com/Arkhavy/42_2021_so_long)** | **[Push_Swap](https://github.com/Arkhavy/42_2021_Push_Swap)** | **[Pipex](https://github.com/Arkhavy/42_2021_Pipex)** |
+| 125/100 | 100/100 | 100/100 |  | 100/100 | 86/100 | 125/100 |
+| **[Philosophers](https://github.com/Arkhavy/42_2021_Philosophers)** |  | **Minishell** |  | **Piscine_CPP** | **MiniRT** | **NetPractice** |
+| 100/100 |  | WiP |  | - | WiP | WiP |
+|  | **Inception** |  | **Webserv**/**Ft_Irc** |  | **Ft_Containers** |  |
+|  | - |  | - |  | - |  |
+|  |  |  | **Ft_Transcendence** |  |  |  |
+|  |  |  | - |  |  |  |
 
 </div>
 
 ---
 
-<h2 align="center">42 Cursus group projects</h2>
+<h2 align="center">42 Post CC / side projects</h2>
 <div align="center">
   
-| [Libunit](https://github.com/Arkhavy/42_2021_Libunit) | Minishell | MiniRT |
-| :---: | :---: | :---: |
-| 113/100 | Work In Progress | Work In Progress |
+| [Libunit](https://github.com/Arkhavy/42_2021_Libunit) |
+| :---: |
+| 113/100 |
 
 </div>
 
