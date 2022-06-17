@@ -91,8 +91,8 @@
   
 | 2022 |
 | :---: |
-| [Spring Challenge 2022](https://github.com/Arkhavy/CodinGame_Spring_Challenge_2022) |
-| Green Circle (incoming) |
+| [Spring Challenge](https://github.com/Arkhavy/CodinGame_Spring_Challenge_2022) |
+| [Green Circle](https://github.com/Arkhavy/CodinGame_Green_Circle_2022) |
 
 </div>
 
