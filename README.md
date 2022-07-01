@@ -54,7 +54,7 @@
 | **[Get_Next_Line](https://github.com/Arkhavy/42_2021_get_next_line)** | **[Ft_Printf](https://github.com/Arkhavy/42_2021_ft_printf)** | **Born2beRoot** |  | **[So_Long](https://github.com/Arkhavy/42_2021_so_long)** | **[Push_Swap](https://github.com/Arkhavy/42_2021_Push_Swap)** | **[Pipex](https://github.com/Arkhavy/42_2021_Pipex)** |
 | 125/100 | 100/100 | 100/100 |  | 100/100 | 86/100 | 125/100 |
 | **[Philosophers](https://github.com/Arkhavy/42_2021_Philosophers)** |  | **[Minishell](https://github.com/Arkhavy/42_2021_Minishell)** |  | **[Piscine_CPP](https://github.com/Arkhavy/42_2021_Piscine_CPP)** | **MiniRT** | **NetPractice** |
-| 100/100 |  | 100/100 |  | - | WiP | 100/100 |
+| 100/100 |  | 100/100 |  | WiP | WiP | 100/100 |
 |  | **Inception** |  | **Webserv**/**Ft_Irc** |  | **Ft_Containers** |  |
 |  | - |  | - |  | - |  |
 |  |  |  | **Ft_Transcendence** |  |  |  |
