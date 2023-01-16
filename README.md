@@ -4,8 +4,8 @@
 <p align="center">
   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1qawy8u002509jtlt49xa81/stats?cursusId=21&coalitionId=302" alt="ljohnson's 42 stats" /></a>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arkhavy&theme=prussian&count_private=true&langs_count=10&show_icons=true&layout=compact" alt="" height="30%" width="29%"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arkhavy&theme=prussian&count_private=true&show_icons=true" alt="" height="35%" width="35%" />
+ <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arkhavy&theme=prussian&count_private=true&langs_count=10&show_icons=true&layout=compact" alt="" height="30%" width="29%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arkhavy&theme=prussian&count_private=true&show_icons=true" alt="" height="35%" width="35%" /> -->
 </p>
 
 ---
@@ -19,7 +19,7 @@
 
 <div align="center">
   <img src="https://badgen.net/badge/C/Advanced/blue?cache=86400" />
-  <img src="https://badgen.net/badge/C++/Beginner/blue?cache=86400" />
+  <img src="https://badgen.net/badge/C++/Intermediate/blue?cache=86400" />
   <img src="https://badgen.net/badge/Shellscript/Intermediate/green?cache=86400" />
   <img src="https://badgen.net/badge/LaTeX/Beginner/grey?cache=86400" />
   <img src="https://badgen.net/badge/Docker/Beginner/cyan?cache=86400&icon=docker" />
