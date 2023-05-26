@@ -89,9 +89,9 @@
 <h2 align="center">Events</h2>
 <div align="center">
   
-| 2022 |
-| :---: |
-| [CodinGame Spring Challenge](https://github.com/Arkhavy/CodinGame_Spring_Challenge_2022) |
+| 2022 | 2023 |
+| :---: | :---: |
+| [CodinGame Spring Challenge](https://github.com/Arkhavy/CodinGame_Spring_Challenge_2022) | [CodinGame Spring Challenge](https://github.com/Arkhavy/CodinGame_Spring_Challenge_2023) |
 
 </div>
 
