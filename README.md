@@ -24,22 +24,12 @@
   <img src="https://badgen.net/badge/LaTeX/Beginner/grey?cache=86400" />
   <img src="https://badgen.net/badge/Docker/Beginner/cyan?cache=86400&icon=docker" />
   <br>
-  <img src="https://badgen.net/badge/HTML/Beginner/blue?cache=86400" />
-  <img src="https://badgen.net/badge/CSS/Beginner/red?cache=86400" />
-  <img src="https://badgen.net/badge/JavaScript/Beginner/yellow?cache=86400" />
+  <img src="https://badgen.net/badge/HTML/Intermediate/blue?cache=86400" />
+  <img src="https://badgen.net/badge/CSS/Intermediate/red?cache=86400" />
+  <img src="https://badgen.net/badge/JavaScript/Intermediate/yellow?cache=86400" />
   <br>
   <img src="https://badgen.net/badge/Self Love/Work in Progress/pink?cache=86400" />
   <img src="https://badgen.net/badge/Ability to fly/Not a bird/grey?cache=86400" />
-  <br>
-  <img src="https://badgen.net/badge/_/VisualStudio/purple?cache=86400&icon=visualstudio&label" />
-  <img src="https://badgen.net/badge/_/Git/orange?cache=86400&icon=git&label" />
-  <a href="https://github.com/Arkhavy"><img src="https://badgen.net/badge/_/Github/grey?cache=86400&icon=github&label" /></a>
-  <br>
-  <img src="https://badgen.net/badge/_/Gitlab/orange?cache=86400&icon=gitlab&label" />
-  <a href="https://discord.gg/udb8RJmxg4"><img src="https://badgen.net/badge/_/Discord/blue?cache=86400&icon=discord&label" /></a>
-  <img src="https://badgen.net/badge/_/Slack/black?cache=86400&icon=slack&label" />
-  <a href="https://twitter.com/arkhavy"><img src="https://badgen.net/badge/_/Twitter/blue?cache=86400&icon=twitter&label" /></a>
-  <img src="https://badgen.net/badge/_/Brave/orange?cache=86400&icon=chrome&label" />
   
 </div>
 
