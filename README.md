@@ -55,7 +55,7 @@
 | 125/100 | 100/100 | 100/100 |  | 100/100 | 86/100 | 125/100 |
 | **[Philosophers](https://github.com/Arkhavy/42_2021_Philosophers)** |  | **[Minishell](https://github.com/Arkhavy/42_2021_Minishell)** |  | **[Piscine_CPP](https://github.com/Arkhavy/42_2021_Piscine_CPP)** | **[MiniRT](https://github.com/Arkhavy/42_2021_MiniRT)** | **NetPractice** |
 | 100/100 |  | 100/100 |  | 100/100 | 100/100 | 100/100 |
-|  | **Inception** |  |  |  | **Ft_irc** |  |
+|  | **Inception** |  |  |  | **[Ft_irc](https://github.com/ChaDutel/FT_IRC)** |  |
 |  | - |  | |  | WiP |  |
 |  |  |  | **Ft_Transcendence** |  |  |  |
 |  |  |  | - |  |  |  |
