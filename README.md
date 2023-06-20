@@ -38,17 +38,13 @@
 <h2 align="center">42 Common Core projects</h2>
 <div align="center">
   
-|  |  |  | **[Libft](https://github.com/Arkhavy/42_2021_libft)** |  |  |  |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|  |  |  | 125/100 |  |  |  |
-| **[Get_Next_Line](https://github.com/Arkhavy/42_2021_get_next_line)** | **[Ft_Printf](https://github.com/Arkhavy/42_2021_ft_printf)** | **Born2beRoot** |  | **[So_Long](https://github.com/Arkhavy/42_2021_so_long)** | **[Push_Swap](https://github.com/Arkhavy/42_2021_Push_Swap)** | **[Pipex](https://github.com/Arkhavy/42_2021_Pipex)** |
-| 125/100 | 100/100 | 100/100 |  | 100/100 | 86/100 | 125/100 |
-| **[Philosophers](https://github.com/Arkhavy/42_2021_Philosophers)** |  | **[Minishell](https://github.com/Arkhavy/42_2021_Minishell)** |  | **[Piscine_CPP](https://github.com/Arkhavy/42_2021_Piscine_CPP)** | **[MiniRT](https://github.com/Arkhavy/42_2021_MiniRT)** | **NetPractice** |
-| 100/100 |  | 100/100 |  | 100/100 | 100/100 | 100/100 |
-|  | **Inception** |  |  |  | **[Ft_irc](https://github.com/ChaDutel/FT_IRC)** |  |
-|  | - |  | |  | WiP |  |
-|  |  |  | **Ft_Transcendence** |  |  |  |
-|  |  |  | - |  |  |  |
+| **[Libft](https://github.com/Arkhavy/42_2021_libft)** | **[Get_Next_Line](https://github.com/Arkhavy/42_2021_get_next_line)** | **[Ft_Printf](https://github.com/Arkhavy/42_2021_ft_printf)** | **[So_Long](https://github.com/Arkhavy/42_2021_so_long)** | **[Pipex](https://github.com/Arkhavy/42_2021_Pipex)** |
+| :---: | :---: | :---: | :---: | :---: |
+| **[Push_Swap](https://github.com/Arkhavy/42_2021_Push_Swap)** | **[Philosophers](https://github.com/Arkhavy/42_2021_Philosophers)** | **[Minishell](https://github.com/Arkhavy/42_2021_Minishell)** | **[MiniRT](https://github.com/Arkhavy/42_2021_MiniRT)** | **[Piscine_CPP](https://github.com/Arkhavy/42_2021_Piscine_CPP)** |
+| **[Ft_irc](https://github.com/ChaDutel/FT_IRC)** |  | **Ft_Transcendence** |  | **Inception** |
+
+
+
 
 </div>
 
@@ -76,26 +72,15 @@
 
 ---
 
-<h2 align="center">Events</h2>
-<div align="center">
-  
-| 2022 | 2023 |
-| :---: | :---: |
-| [CodinGame Spring Challenge](https://github.com/Arkhavy/CodinGame_Spring_Challenge_2022) | [CodinGame Spring Challenge](https://github.com/Arkhavy/CodinGame_Spring_Challenge_2023) |
-
-</div>
-
----
-
 <h2 align="center">CodinGame Puzzles</h2>
 <div align="center">
   
-| Easy Puzzles | Medium Puzzles |
-| :---: | :---: |
-| [The Descent](https://github.com/Arkhavy/CodinGame_Easy_The_Descent) | [Shadow Of The Night Ep1](https://github.com/Arkhavy/CodinGame_Medium_Shadows_of_the_knight_ep1) |
-| [Power of Thor](https://github.com/Arkhavy/CodinGame_Easy_Power_of_Thor) |
-| [Temperatures](https://github.com/Arkhavy/CodinGame_Easy_Temperatures) |
-| [Mars Lander](https://github.com/Arkhavy/CodinGame_Easy_Mars_Lander) |
+| Easy Puzzles | Medium Puzzles | Events |
+| :---: | :---: | :---: |
+| [The Descent](https://github.com/Arkhavy/CodinGame_Easy_The_Descent) | [Shadow Of The Night Ep1](https://github.com/Arkhavy/CodinGame_Medium_Shadows_of_the_knight_ep1) | [CodinGame Spring Challenge 2022](https://github.com/Arkhavy/CodinGame_Spring_Challenge_2022) |
+| [Power of Thor](https://github.com/Arkhavy/CodinGame_Easy_Power_of_Thor) | |
+| [Temperatures](https://github.com/Arkhavy/CodinGame_Easy_Temperatures) | |
+| [Mars Lander](https://github.com/Arkhavy/CodinGame_Easy_Mars_Lander) | |
 
 </div>
 
@@ -106,6 +91,6 @@
   
 | Discord | LinkedIn | Email |
 | :---: | :---: | :---: |
-| Arkhavy#4475 | [ljohnson42lyon](https://www.linkedin.com/in/ljohnson42lyon/) | ljohnson@student.42lyon.fr |
+| arkhavy | [ljohnson42lyon](https://www.linkedin.com/in/ljohnson42lyon/) | ljohnson@student.42lyon.fr |
 
 </div>
