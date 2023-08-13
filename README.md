@@ -64,9 +64,9 @@
 <h2 align="center">Custom projects</h2>
 <div align="center">
     
-| 42 upgraded Libft | 42 Push Swap Tester | Obsidian Database | 42 Trolls | 42 MiniRT Error tester |
-| :---: | :---: | :---: | :---: | :---: |
-| [Ark_Libft](https://github.com/Arkhavy/42_2021_ark_libft) | [Arktest Push Swap](https://github.com/Arkhavy/Arktest_Push_Swap) | [Ark Md Database](https://github.com/Arkhavy/Obsidian_md_ark_database) | [Trolls](https://github.com/Arkhavy/trolls) | [Arktest MiniRT](https://github.com/Arkhavy/Arktest_MiniRT) |
+| 42 upgraded Libft | 42 Push Swap Tester | 42 Trolls | 42 MiniRT Error tester |
+| :---: | :---: | :---: | :---: |
+| [Ark_Libft](https://github.com/Arkhavy/42_2021_ark_libft) | [Arktest Push Swap](https://github.com/Arkhavy/Arktest_Push_Swap) | [Trolls](https://github.com/Arkhavy/trolls) | [Arktest MiniRT](https://github.com/Arkhavy/Arktest_MiniRT) |
     
 </div>
 
