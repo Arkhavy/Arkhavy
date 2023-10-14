@@ -75,12 +75,12 @@
 <h2 align="center">CodinGame Puzzles</h2>
 <div align="center">
   
-| Easy Puzzles | Medium Puzzles | Events |
+| [Easy Puzzles](https://github.com/Arkhavy/CodinGame_Easy_Challenges) | [Medium Puzzles](https://github.com/Arkhavy/CodinGame_Medium_Challenges) | Events |
 | :---: | :---: | :---: |
-| [The Descent](https://github.com/Arkhavy/CodinGame_Easy_The_Descent) | [Shadow Of The Night Ep1](https://github.com/Arkhavy/CodinGame_Medium_Shadows_of_the_knight_ep1) | [CodinGame Spring Challenge 2022](https://github.com/Arkhavy/CodinGame_Spring_Challenge_2022) |
-| [Power of Thor](https://github.com/Arkhavy/CodinGame_Easy_Power_of_Thor) | |
-| [Temperatures](https://github.com/Arkhavy/CodinGame_Easy_Temperatures) | |
-| [Mars Lander](https://github.com/Arkhavy/CodinGame_Easy_Mars_Lander) | |
+| The Descent | Shadow Of The Night Ep1 | [CodinGame Spring Challenge 2022](https://github.com/Arkhavy/CodinGame_Spring_Challenge_2022) |
+| Power of Thor | |
+| Temperatures | |
+| Mars Lander | |
 
 </div>
 
@@ -89,8 +89,8 @@
 <h2 align="center">Contact</h2>
 <div align="center">
   
-| Discord | LinkedIn | Email |
-| :---: | :---: | :---: |
-| arkhavy | [ljohnson42lyon](https://www.linkedin.com/in/ljohnson42lyon/) | ljohnson@student.42lyon.fr |
+| Discord | LinkedIn | Email | linktree |
+| :---: | :---: | :---: | :---: |
+| arkhavy | [ljohnson42lyon](https://www.linkedin.com/in/ljohnson42lyon/) | ljohnson@student.42lyon.fr | [arkhavy](https://linktr.ee/arkhavy) |
 
 </div>
