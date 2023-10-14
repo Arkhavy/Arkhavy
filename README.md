@@ -2,8 +2,8 @@
 <h3 align="center">French and English speaking person who wants to learn and try things !</h3>
 
 <p align="center">
-  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1qawy8u002509jtlt49xa81/stats?cursusId=21&coalitionId=302" alt="ljohnson's 42 stats" /></a>
-  <a href="https://discord.com/users/174530968948965377"> <img align="center" alt="Discord status" src="https://lanyard.cnrad.dev/api/174530968948965377?idleMessage=Inactif&hideStatus=False")></a>
+  <!-- <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1qawy8u002509jtlt49xa81/stats?cursusId=21&coalitionId=302" alt="ljohnson's 42 stats" /></a> -->
+  <!-- <a href="https://discord.com/users/174530968948965377"><img align="center" alt="Discord status" src="https://lanyard.cnrad.dev/api/174530968948965377"></a> -->
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arkhavy&theme=prussian&count_private=true&langs_count=10&show_icons=true&layout=compact" alt="" height="30%" width="29%"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arkhavy&theme=prussian&count_private=true&show_icons=true" alt="" height="35%" width="35%" />
