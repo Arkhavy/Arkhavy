@@ -35,6 +35,16 @@
 </div>
 
 ---
+<h2 align="center">Currently working on</h2>
+<div align="center">
+  
+| **Personal Project** |
+| :---: |
+| **[Arkscendance](https://github.com/Arkhavy/Arkscendance)** |
+
+</div>
+
+---
 
 <h2 align="center">42 Common Core projects</h2>
 <div align="center">
@@ -67,7 +77,7 @@
     
 | 42 upgraded Libft | 42 Push Swap Tester | 42 Trolls | 42 MiniRT Error tester |
 | :---: | :---: | :---: | :---: |
-| [Ark_Libft](https://github.com/Arkhavy/42_2021_ark_libft) | [Arktest Push Swap](https://github.com/Arkhavy/Arktest_Push_Swap) | [Trolls](https://github.com/Arkhavy/trolls) | [Arktest MiniRT](https://github.com/Arkhavy/Arktest_MiniRT) |
+| **[Ark_Libft](https://github.com/Arkhavy/42_2021_ark_libft)** | **[Arktest Push Swap](https://github.com/Arkhavy/Arktest_Push_Swap)** | **[Trolls](https://github.com/Arkhavy/trolls)** | **[Arktest MiniRT](https://github.com/Arkhavy/Arktest_MiniRT)** |
     
 </div>
 
@@ -78,7 +88,7 @@
   
 | [Easy Puzzles](https://github.com/Arkhavy/CodinGame_Easy_Challenges) | [Medium Puzzles](https://github.com/Arkhavy/CodinGame_Medium_Challenges) | Events |
 | :---: | :---: | :---: |
-| The Descent | Shadow Of The Night Ep1 | [CodinGame Spring Challenge 2022](https://github.com/Arkhavy/CodinGame_Spring_Challenge_2022) |
+| The Descent | Shadow Of The Night Ep1 | **[CodinGame Spring Challenge 2022](https://github.com/Arkhavy/CodinGame_Spring_Challenge_2022)** |
 | Power of Thor | |
 | Temperatures | |
 | Mars Lander | |
@@ -92,6 +102,6 @@
   
 | Discord | LinkedIn | Email | linktree |
 | :---: | :---: | :---: | :---: |
-| arkhavy | [ljohnson42lyon](https://www.linkedin.com/in/ljohnson42lyon/) | ljohnson@student.42lyon.fr | [arkhavy](https://linktr.ee/arkhavy) |
+| arkhavy | **[ljohnson42lyon](https://www.linkedin.com/in/ljohnson42lyon/)** | **ljohnson@student.42lyon.fr** | **[arkhavy](https://linktr.ee/arkhavy)** |
 
 </div>
