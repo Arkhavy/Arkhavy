@@ -35,6 +35,7 @@
 </div>
 
 ---
+<!--
 <h2 align="center">Currently working on</h2>
 <div align="center">
   
@@ -45,6 +46,7 @@
 </div>
 
 ---
+-->
 
 <h2 align="center">42 Common Core projects</h2>
 <div align="center">
