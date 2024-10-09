@@ -91,7 +91,7 @@
 | [Easy Puzzles](https://github.com/Arkhavy/CodinGame_Easy_Challenges) | [Medium Puzzles](https://github.com/Arkhavy/CodinGame_Medium_Challenges) | Events |
 | :---: | :---: | :---: |
 | The Descent | Shadow Of The Night Ep1 | **[CodinGame Spring Challenge 2022](https://github.com/Arkhavy/CodinGame_Spring_Challenge_2022)** |
-| Power of Thor | |
+| Power of Thor | | **[CodinGame_Fall_Challenge_2024](https://github.com/Arkhavy/CodinGame_Fall_Challenge_2024)** |
 | Temperatures | |
 | Mars Lander | |
 
