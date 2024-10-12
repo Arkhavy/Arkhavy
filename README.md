@@ -1,9 +1,7 @@
 <h1 align="center">Hello there 👋 I am Loïc !</h1>
 <h3 align="center">French and English speaking person who wants to learn and try things !</h3>
+<h4 align="center">42Lyon student, currently searching for internship, apprenticeship or open-ended contract as a developer</h4>
 
-<p align="center">
-  <!-- <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1qawy8u002509jtlt49xa81/stats?cursusId=21&coalitionId=302" alt="ljohnson's 42 stats" /></a> -->
-  <!-- <a href="https://discord.com/users/174530968948965377"><img align="center" alt="Discord status" src="https://lanyard.cnrad.dev/api/174530968948965377"></a> -->
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arkhavy&theme=prussian&count_private=true&langs_count=10&show_icons=true&layout=compact" alt="" height="30%" width="29%"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arkhavy&theme=prussian&count_private=true&show_icons=true" alt="" height="35%" width="35%" />
@@ -18,57 +16,62 @@
 
 ---
 
+<h2 align="center">42 Common Core projects</h2>
 <div align="center">
-  <img src="https://badgen.net/badge/C/Advanced/blue?cache=86400" />
-  <img src="https://badgen.net/badge/C++/Intermediate/blue?cache=86400" />
-  <img src="https://badgen.net/badge/Shellscript/Intermediate/green?cache=86400" />
-  <img src="https://badgen.net/badge/LaTeX/Beginner/grey?cache=86400" />
-  <img src="https://badgen.net/badge/Docker/Beginner/cyan?cache=86400&icon=docker" />
-  <br>
-  <img src="https://badgen.net/badge/HTML/Intermediate/blue?cache=86400" />
-  <img src="https://badgen.net/badge/CSS/Intermediate/red?cache=86400" />
-  <img src="https://badgen.net/badge/JavaScript/Intermediate/yellow?cache=86400" />
-  <br>
-  <img src="https://badgen.net/badge/Self Love/Work in Progress/pink?cache=86400" />
-  <img src="https://badgen.net/badge/Ability to fly/Not a bird/grey?cache=86400" />
+  Sadly, 42 project repositories have been switched to private visibility to avoid potential cheaters.<br>
+  Since they still exist, they can be provided on demand for documentation purpose only.<br>
+  Might create a documentation repo only full of markdown files for those projects for tutorial/reference purpose one day :D
+</div>
+<br>
+<div align="center">
   
+| Libft | Get_Next_Line | Ft_Printf | So_Long | Pipex |
+| :---: | :---: | :---: | :---: | :---: |
+| **Push_Swap** | **Philosophers** | **Minishell** | **MiniRT** | **Piscine_CPP** |
+| **Ft_irc** |  | **Ft_Transcendence** |  | **Inception** |
+
 </div>
 
 ---
 <!--
-<h2 align="center">Currently working on</h2>
+<h2 align="center">42 Rushes</h2>
 <div align="center">
   
-| **Personal Project** |
-| :---: |
-| **[Arkscendance](https://github.com/Arkhavy/Arkscendance)** |
+| Libunit | | |
+| :---: | :---: |
+| | |
 
 </div>
-
----
 -->
-
-<h2 align="center">42 Common Core projects</h2>
+<h2 align="center">42 Post CC Roadmap</h2>
+<h3 align="center">RNCP 7 : Database and Data Architecture</h3>
 <div align="center">
-  
-| **[Libft](https://github.com/Arkhavy/42_2021_libft)** | **[Get_Next_Line](https://github.com/Arkhavy/42_2021_get_next_line)** | **[Ft_Printf](https://github.com/Arkhavy/42_2021_ft_printf)** | **[So_Long](https://github.com/Arkhavy/42_2021_so_long)** | **[Pipex](https://github.com/Arkhavy/42_2021_Pipex)** |
-| :---: | :---: | :---: | :---: | :---: |
-| **[Push_Swap](https://github.com/Arkhavy/42_2021_Push_Swap)** | **[Philosophers](https://github.com/Arkhavy/42_2021_Philosophers)** | **[Minishell](https://github.com/Arkhavy/42_2021_Minishell)** | **[MiniRT](https://github.com/Arkhavy/42_2021_MiniRT)** | **[Piscine_CPP](https://github.com/Arkhavy/42_2021_Piscine_CPP)** |
-| **[Ft_irc](https://github.com/ChaDutel/FT_IRC)** |  | **Ft_Transcendence** |  | **[Inception](https://github.com/Arkhavy/42_2021_Inception)** |
 
+All projects with `[LFG]` notation are group project where I don't have anyone to work with yet.<br>
+All projects with `(TBD)` notation are projects **To Be Done**, which means I didn't start them yet.<br>
+The order in which those projects will be done is not defined yet.
 
+| | Projet suite | |
+|:---:|:---:|:---:|
+| Scop (WIP) | | HumanGL (TBD) |
 
+<br>
 
-</div>
+| | **Bloc IA** | |
+|:---:|:---:|:---:|
+| Dslr **[LFG]** (TBD) | Matrix [SOLO] (TBD) | Ft_linear_regression [SOLO] (TBD) |
+| Ready Set Boole [SOLO] (TBD) | Multilayer Perceptron [SOLO] (TBD) | Gomoku **[LFG]** (TBD) |
+| rubik **[LFG]** (TBD) | | krpsim **[LFG]** (TBD) |
 
----
+<br>
 
-<h2 align="center">42 Post CC / side projects</h2>
-<div align="center">
-  
-| [Libunit](https://github.com/Arkhavy/42_2021_Libunit) |
-| :---: |
-| 113/100 |
+| | **Bloc Web - DB** | |
+| :---: | :---: | :---: |
+| Matcha **[LFG]** (TBD) | Hypertube **[LFG]** (TBD) | Red Tetris **[LFG]** (TBD) |
+| Camagru [SOLO] (TBD) | | Ft_turing **[LFG]** (TBD) |
+| Darkly **[LFG]** (TBD) | | h42n42 [SOLO] (TBD) |
+
+*`Camagru` & `Darkly` are not mandatory if `Ft_turing` and `h42n42` are done*
 
 </div>
 
@@ -77,9 +80,9 @@
 <h2 align="center">Custom projects</h2>
 <div align="center">
     
-| 42 upgraded Libft | 42 Push Swap Tester | 42 Trolls | 42 MiniRT Error tester |
+| 42 Push Swap Tester | 42 Trolls | Learning Flutter | Learning React |
 | :---: | :---: | :---: | :---: |
-| **[Ark_Libft](https://github.com/Arkhavy/42_2021_ark_libft)** | **[Arktest Push Swap](https://github.com/Arkhavy/Arktest_Push_Swap)** | **[Trolls](https://github.com/Arkhavy/trolls)** | **[Arktest MiniRT](https://github.com/Arkhavy/Arktest_MiniRT)** |
+| **[Arktest Push Swap](https://github.com/Arkhavy/Arktest_Push_Swap)** | **[Trolls](https://github.com/Arkhavy/trolls)** | **[Flutter_Experimentations](https://github.com/Arkhavy/Flutter_Experimentations)** | **[Arkscendance](https://github.com/Arkhavy/Arkscendance)**
     
 </div>
 
