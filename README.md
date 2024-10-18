@@ -97,6 +97,7 @@ The order in which those projects will be done is not defined yet.
 | Power of Thor | | **[CodinGame_Fall_Challenge_2024](https://github.com/Arkhavy/CodinGame_Fall_Challenge_2024)** |
 | Temperatures | |
 | Mars Lander | |
+| 1 000 000 000D World | |
 
 </div>
 
