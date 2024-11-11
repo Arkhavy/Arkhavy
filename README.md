@@ -25,10 +25,13 @@
 <br>
 <div align="center">
   
-| Libft | Get_Next_Line | Ft_Printf | So_Long | Pipex |
-| :---: | :---: | :---: | :---: | :---: |
-| **Push_Swap** | **Philosophers** | **Minishell** | **MiniRT** | **Piscine_CPP** |
-| **Ft_irc** |  | **Ft_Transcendence** |  | **Inception** |
+| | Libft 125/100 | |
+| :---: | :---: | :---: |
+| **Get_Next_Line 125/100** | **Ft_Printf 100/100** | **Born2BeRoot 100/100** |
+| **So_Long 100/100** | **Pipex 125/100** | **Push_Swap 86/100** |
+| **Philosophers 100/100** | | **Minishell 100/100** |
+| **NetPractice 100/100** | **MiniRT 100/100** | **Piscine_CPP 100/100** |
+| **Ft_irc 125/100** | **Inception 100/100** | **Ft_Transcendence 98/100** |
 
 </div>
 
@@ -53,13 +56,13 @@ The order in which those projects will be done is not defined yet.
 
 | | Projet suite | |
 |:---:|:---:|:---:|
-| Scop (WIP) | | HumanGL (TBD) |
+| **Scop (WIP)** | | HumanGL (TBD) |
 
 <br>
 
 | | **Bloc IA** | |
 |:---:|:---:|:---:|
-| Dslr **[LFG]** (TBD) | Matrix [SOLO] (TBD) | Ft_linear_regression [SOLO] (TBD) |
+| Dslr **[LFG]** (TBD) | Matrix [SOLO] (TBD) | **Ft_linear_regression [SOLO] (WIP)** |
 | Ready Set Boole [SOLO] (TBD) | Multilayer Perceptron [SOLO] (TBD) | Gomoku **[LFG]** (TBD) |
 | rubik **[LFG]** (TBD) | | krpsim **[LFG]** (TBD) |
 
