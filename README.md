@@ -82,9 +82,9 @@ The order in which those projects will be done is not defined yet.
 <h2 align="center">Custom projects</h2>
 <div align="center">
     
-| 42 Push Swap Tester | 42 Trolls | Learning Flutter | Learning React |
-| :---: | :---: | :---: | :---: |
-| **[Arktest Push Swap](https://github.com/Arkhavy/Arktest_Push_Swap)** | **[Trolls](https://github.com/Arkhavy/trolls)** | **[Flutter_Experimentations](https://github.com/Arkhavy/Flutter_Experimentations)** | **[Arkscendance](https://github.com/Arkhavy/Arkscendance)**
+| 42 Push Swap Tester | Learning Flutter | Learning React |
+| :---: | :---: | :---: |
+| **[Arktest Push Swap](https://github.com/Arkhavy/Arktest_Push_Swap)** | **[Flutter_Experimentations](https://github.com/Arkhavy/Flutter_Experimentations)** | **[Arkscendance](https://github.com/Arkhavy/Arkscendance)**
     
 </div>
 
