@@ -20,7 +20,6 @@
 <div align="center">
   Sadly, 42 project repositories have been switched to private visibility to avoid potential cheaters.<br>
   Since they still exist, they can be provided on demand for documentation purpose only.<br>
-  Might create a documentation repo only full of markdown files for those projects for tutorial/reference purpose one day :D
 </div>
 <br>
 <div align="center">
