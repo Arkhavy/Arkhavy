@@ -55,13 +55,13 @@ The order in which those projects will be done is not defined yet.
 
 | | Projet suite | |
 |:---:|:---:|:---:|
-| **Scop (WIP)** | | HumanGL (TBD) |
+| Scop (TBD) | | HumanGL (TBD) |
 
 <br>
 
 | | **Bloc IA** | |
 |:---:|:---:|:---:|
-| Dslr **[LFG]** (TBD) | Matrix [SOLO] (TBD) | **Ft_linear_regression [SOLO] (WIP)** |
+| Dslr **[LFG]** (TBD) | Matrix [SOLO] (TBD) | Ft_linear_regression [SOLO] (TBD) |
 | Ready Set Boole [SOLO] (TBD) | Multilayer Perceptron [SOLO] (TBD) | Gomoku **[LFG]** (TBD) |
 | rubik **[LFG]** (TBD) | | krpsim **[LFG]** (TBD) |
 
