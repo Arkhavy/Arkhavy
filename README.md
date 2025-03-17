@@ -10,6 +10,12 @@
 ---
 
 <p align="center">
+ <img align="center" src="https://badge.mediaplus.ma/darkblue/ljohnson?1337Badge=off&UM6P=off" alt="ljohnson's 42 stats" />
+</p>
+
+---
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arkhavy&label=Profile%20views&color=blue&style=flat" alt="Arkhavy" />
   <a href="https://profile.intra.42.fr/users/ljohnson"><img src="https://badgen.net/badge/Born2Code/ljohnson/blue?icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" /></a>
 </p>
