@@ -41,16 +41,7 @@
 </div>
 
 ---
-<!--
-<h2 align="center">42 Rushes</h2>
-<div align="center">
-  
-| Libunit | | |
-| :---: | :---: |
-| | |
 
-</div>
--->
 <h2 align="center">42 Post CC Roadmap</h2>
 <h3 align="center">RNCP 7 : Database and Data Architecture</h3>
 <div align="center">
@@ -81,17 +72,6 @@ The order in which those projects will be done is not defined yet.
 
 *`Camagru` & `Darkly` are not mandatory if `Ft_turing` and `h42n42` are done*
 
-</div>
-
----
-
-<h2 align="center">Custom projects</h2>
-<div align="center">
-    
-| 42 Push Swap Tester | Learning Flutter | Learning React |
-| :---: | :---: | :---: |
-| **[Arktest Push Swap](https://github.com/Arkhavy/Arktest_Push_Swap)** | **[Flutter_Experimentations](https://github.com/Arkhavy/Flutter_Experimentations)** | **[Arkscendance](https://github.com/Arkhavy/Arkscendance)**
-    
 </div>
 
 ---
