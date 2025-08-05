@@ -6,73 +6,9 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arkhavy&theme=prussian&count_private=true&langs_count=10&show_icons=true&layout=compact" alt="" height="30%" width="29%"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arkhavy&theme=prussian&count_private=true&show_icons=true" alt="" height="35%" width="35%" />
 </p>
-
----
-
-<p align="center">
- <img align="center" src="https://badge.mediaplus.ma/darkblue/ljohnson?1337Badge=off&UM6P=off" alt="ljohnson's 42 stats" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arkhavy&label=Profile%20views&color=blue&style=flat" alt="Arkhavy" />
-  <a href="https://profile.intra.42.fr/users/ljohnson"><img src="https://badgen.net/badge/Born2Code/ljohnson/blue?icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" /></a>
 </p>
-
----
-
-<h2 align="center">42 Common Core projects</h2>
-<div align="center">
-  Sadly, 42 project repositories have been switched to private visibility to avoid potential cheaters.<br>
-  Since they still exist, they can be provided on demand for documentation purpose only.<br>
-</div>
-<br>
-<div align="center">
-  
-| | Libft 125/100 | |
-| :---: | :---: | :---: |
-| **Get_Next_Line 125/100** | **Ft_Printf 100/100** | **Born2BeRoot 100/100** |
-| **So_Long 100/100** | **Pipex 125/100** | **Push_Swap 86/100** |
-| **Philosophers 100/100** | | **Minishell 100/100** |
-| **NetPractice 100/100** | **MiniRT 100/100** | **Piscine_CPP 100/100** |
-| **Ft_irc 125/100** | **Inception 100/100** | **Ft_Transcendence 98/100** |
-
-</div>
-
----
-
-<h2 align="center">42 Post CC Roadmap</h2>
-<h3 align="center">RNCP 7 : Database and Data Architecture</h3>
-<div align="center">
-
-All projects with `[LFG]` notation are group project where I don't have anyone to work with yet.<br>
-All projects with `(TBD)` notation are projects **To Be Done**, which means I didn't start them yet.<br>
-The order in which those projects will be done is not defined yet.
-
-| | Projet suite | |
-|:---:|:---:|:---:|
-| Scop (TBD) | | HumanGL (TBD) |
-
-<br>
-
-| | **Bloc IA** | |
-|:---:|:---:|:---:|
-| Dslr **[LFG]** (TBD) | Matrix [SOLO] (TBD) | Ft_linear_regression [SOLO] (TBD) |
-| Ready Set Boole [SOLO] (TBD) | Multilayer Perceptron [SOLO] (TBD) | Gomoku **[LFG]** (TBD) |
-| rubik **[LFG]** (TBD) | | krpsim **[LFG]** (TBD) |
-
-<br>
-
-| | **Bloc Web - DB** | |
-| :---: | :---: | :---: |
-| Matcha **[LFG]** (TBD) | Hypertube **[LFG]** (TBD) | Red Tetris **[LFG]** (TBD) |
-| Camagru [SOLO] (TBD) | | Ft_turing **[LFG]** (TBD) |
-| Darkly **[LFG]** (TBD) | | h42n42 [SOLO] (TBD) |
-
-*`Camagru` & `Darkly` are not mandatory if `Ft_turing` and `h42n42` are done*
-
-</div>
 
 ---
 
@@ -96,6 +32,6 @@ The order in which those projects will be done is not defined yet.
   
 | Discord | LinkedIn | Email | linktree |
 | :---: | :---: | :---: | :---: |
-| arkhavy | **[ljohnson42lyon](https://www.linkedin.com/in/ljohnson42lyon/)** | **ljohnson@student.42lyon.fr** | **[arkhavy](https://linktr.ee/arkhavy)** |
+| arkhavy | **[ljohnson42lyon](https://www.linkedin.com/in/arkljohnson/)** | **arkhavy@gmail.com** | **[arkhavy](https://linktr.ee/arkhavy)** |
 
 </div>
