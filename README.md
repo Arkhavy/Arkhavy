@@ -30,8 +30,8 @@
 <h2 align="center">Contact</h2>
 <div align="center">
   
-| Discord | LinkedIn | Email | linktree |
-| :---: | :---: | :---: | :---: |
-| arkhavy | **[ljohnson42lyon](https://www.linkedin.com/in/arkljohnson/)** | **arkhavy@gmail.com** | **[arkhavy](https://linktr.ee/arkhavy)** |
+| Discord | linktree |
+| :---: | :---: |
+| arkhavy | **[arkhavy](https://linktr.ee/arkhavy)** |
 
 </div>
