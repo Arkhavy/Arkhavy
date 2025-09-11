@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋 I am Loïc !</h1>
 <h3 align="center">French and English speaking person who wants to learn and try things !</h3>
-<h4 align="center">Former 42Lyon student, currently studying with The Odin Project !</h4>
+<h4 align="center">Former 42 student, currently studying with The Odin Project !</h4>
 
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arkhavy&theme=prussian&count_private=true&langs_count=10&show_icons=true&layout=compact" alt="" height="30%" width="29%"/>
