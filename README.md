@@ -31,7 +31,7 @@
 <div align="center">
   
 | Discord | linktree | Mail |
-| :---: | :---: |
+| :---: | :---: | :---: |
 | arkhavy | **[arkhavy](https://linktr.ee/arkhavy)** | arkhavy@gmail.com |
 
 </div>
